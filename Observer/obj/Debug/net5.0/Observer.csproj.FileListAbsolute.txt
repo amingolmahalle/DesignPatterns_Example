@@ -13,3 +13,4 @@
 /home/amin/Projects/Other/DesignPatterns_Example/Observer/obj/Debug/net5.0/ref/Observer.dll
 /home/amin/Projects/Other/DesignPatterns_Example/Observer/obj/Debug/net5.0/Observer.pdb
 /home/amin/Projects/Other/DesignPatterns_Example/Observer/obj/Debug/net5.0/Observer.genruntimeconfig.cache
+/home/amin/Projects/Other/DesignPatterns_Example/Observer/obj/Debug/net5.0/Observer.csproj.AssemblyReference.cache
