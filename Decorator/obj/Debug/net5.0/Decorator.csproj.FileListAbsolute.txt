@@ -1,0 +1,15 @@
+/home/amin/Projects/Other/DesignPatterns_Example/Decorator/bin/Debug/net5.0/Decorator
+/home/amin/Projects/Other/DesignPatterns_Example/Decorator/bin/Debug/net5.0/Decorator.deps.json
+/home/amin/Projects/Other/DesignPatterns_Example/Decorator/bin/Debug/net5.0/Decorator.runtimeconfig.json
+/home/amin/Projects/Other/DesignPatterns_Example/Decorator/bin/Debug/net5.0/Decorator.runtimeconfig.dev.json
+/home/amin/Projects/Other/DesignPatterns_Example/Decorator/bin/Debug/net5.0/Decorator.dll
+/home/amin/Projects/Other/DesignPatterns_Example/Decorator/bin/Debug/net5.0/ref/Decorator.dll
+/home/amin/Projects/Other/DesignPatterns_Example/Decorator/bin/Debug/net5.0/Decorator.pdb
+/home/amin/Projects/Other/DesignPatterns_Example/Decorator/obj/Debug/net5.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/home/amin/Projects/Other/DesignPatterns_Example/Decorator/obj/Debug/net5.0/Decorator.AssemblyInfoInputs.cache
+/home/amin/Projects/Other/DesignPatterns_Example/Decorator/obj/Debug/net5.0/Decorator.AssemblyInfo.cs
+/home/amin/Projects/Other/DesignPatterns_Example/Decorator/obj/Debug/net5.0/Decorator.csproj.CoreCompileInputs.cache
+/home/amin/Projects/Other/DesignPatterns_Example/Decorator/obj/Debug/net5.0/Decorator.dll
+/home/amin/Projects/Other/DesignPatterns_Example/Decorator/obj/Debug/net5.0/ref/Decorator.dll
+/home/amin/Projects/Other/DesignPatterns_Example/Decorator/obj/Debug/net5.0/Decorator.pdb
+/home/amin/Projects/Other/DesignPatterns_Example/Decorator/obj/Debug/net5.0/Decorator.genruntimeconfig.cache

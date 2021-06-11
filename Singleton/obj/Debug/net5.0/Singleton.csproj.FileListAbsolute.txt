@@ -1,0 +1,16 @@
+/home/amin/Projects/Other/DesignPatterns_Example/Singleton/bin/Debug/net5.0/Singleton
+/home/amin/Projects/Other/DesignPatterns_Example/Singleton/bin/Debug/net5.0/Singleton.deps.json
+/home/amin/Projects/Other/DesignPatterns_Example/Singleton/bin/Debug/net5.0/Singleton.runtimeconfig.json
+/home/amin/Projects/Other/DesignPatterns_Example/Singleton/bin/Debug/net5.0/Singleton.runtimeconfig.dev.json
+/home/amin/Projects/Other/DesignPatterns_Example/Singleton/bin/Debug/net5.0/Singleton.dll
+/home/amin/Projects/Other/DesignPatterns_Example/Singleton/bin/Debug/net5.0/ref/Singleton.dll
+/home/amin/Projects/Other/DesignPatterns_Example/Singleton/bin/Debug/net5.0/Singleton.pdb
+/home/amin/Projects/Other/DesignPatterns_Example/Singleton/obj/Debug/net5.0/Singleton.csproj.AssemblyReference.cache
+/home/amin/Projects/Other/DesignPatterns_Example/Singleton/obj/Debug/net5.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/amin/Projects/Other/DesignPatterns_Example/Singleton/obj/Debug/net5.0/Singleton.AssemblyInfoInputs.cache
+/home/amin/Projects/Other/DesignPatterns_Example/Singleton/obj/Debug/net5.0/Singleton.AssemblyInfo.cs
+/home/amin/Projects/Other/DesignPatterns_Example/Singleton/obj/Debug/net5.0/Singleton.csproj.CoreCompileInputs.cache
+/home/amin/Projects/Other/DesignPatterns_Example/Singleton/obj/Debug/net5.0/Singleton.dll
+/home/amin/Projects/Other/DesignPatterns_Example/Singleton/obj/Debug/net5.0/ref/Singleton.dll
+/home/amin/Projects/Other/DesignPatterns_Example/Singleton/obj/Debug/net5.0/Singleton.pdb
+/home/amin/Projects/Other/DesignPatterns_Example/Singleton/obj/Debug/net5.0/Singleton.genruntimeconfig.cache

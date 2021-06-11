@@ -1,0 +1,16 @@
+/home/amin/Projects/Other/DesignPatterns_Example/FactoryMethod/bin/Debug/net5.0/FactoryMethod
+/home/amin/Projects/Other/DesignPatterns_Example/FactoryMethod/bin/Debug/net5.0/FactoryMethod.deps.json
+/home/amin/Projects/Other/DesignPatterns_Example/FactoryMethod/bin/Debug/net5.0/FactoryMethod.runtimeconfig.json
+/home/amin/Projects/Other/DesignPatterns_Example/FactoryMethod/bin/Debug/net5.0/FactoryMethod.runtimeconfig.dev.json
+/home/amin/Projects/Other/DesignPatterns_Example/FactoryMethod/bin/Debug/net5.0/FactoryMethod.dll
+/home/amin/Projects/Other/DesignPatterns_Example/FactoryMethod/bin/Debug/net5.0/ref/FactoryMethod.dll
+/home/amin/Projects/Other/DesignPatterns_Example/FactoryMethod/bin/Debug/net5.0/FactoryMethod.pdb
+/home/amin/Projects/Other/DesignPatterns_Example/FactoryMethod/obj/Debug/net5.0/FactoryMethod.csproj.AssemblyReference.cache
+/home/amin/Projects/Other/DesignPatterns_Example/FactoryMethod/obj/Debug/net5.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/amin/Projects/Other/DesignPatterns_Example/FactoryMethod/obj/Debug/net5.0/FactoryMethod.AssemblyInfoInputs.cache
+/home/amin/Projects/Other/DesignPatterns_Example/FactoryMethod/obj/Debug/net5.0/FactoryMethod.AssemblyInfo.cs
+/home/amin/Projects/Other/DesignPatterns_Example/FactoryMethod/obj/Debug/net5.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/home/amin/Projects/Other/DesignPatterns_Example/FactoryMethod/obj/Debug/net5.0/FactoryMethod.dll
+/home/amin/Projects/Other/DesignPatterns_Example/FactoryMethod/obj/Debug/net5.0/ref/FactoryMethod.dll
+/home/amin/Projects/Other/DesignPatterns_Example/FactoryMethod/obj/Debug/net5.0/FactoryMethod.pdb
+/home/amin/Projects/Other/DesignPatterns_Example/FactoryMethod/obj/Debug/net5.0/FactoryMethod.genruntimeconfig.cache

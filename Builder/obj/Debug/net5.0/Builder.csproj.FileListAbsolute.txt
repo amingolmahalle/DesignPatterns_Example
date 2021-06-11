@@ -1,0 +1,16 @@
+/home/amin/Projects/Other/DesignPatterns_Example/Builder/bin/Debug/net5.0/Builder
+/home/amin/Projects/Other/DesignPatterns_Example/Builder/bin/Debug/net5.0/Builder.deps.json
+/home/amin/Projects/Other/DesignPatterns_Example/Builder/bin/Debug/net5.0/Builder.runtimeconfig.json
+/home/amin/Projects/Other/DesignPatterns_Example/Builder/bin/Debug/net5.0/Builder.runtimeconfig.dev.json
+/home/amin/Projects/Other/DesignPatterns_Example/Builder/bin/Debug/net5.0/Builder.dll
+/home/amin/Projects/Other/DesignPatterns_Example/Builder/bin/Debug/net5.0/ref/Builder.dll
+/home/amin/Projects/Other/DesignPatterns_Example/Builder/bin/Debug/net5.0/Builder.pdb
+/home/amin/Projects/Other/DesignPatterns_Example/Builder/obj/Debug/net5.0/Builder.csproj.AssemblyReference.cache
+/home/amin/Projects/Other/DesignPatterns_Example/Builder/obj/Debug/net5.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/home/amin/Projects/Other/DesignPatterns_Example/Builder/obj/Debug/net5.0/Builder.AssemblyInfoInputs.cache
+/home/amin/Projects/Other/DesignPatterns_Example/Builder/obj/Debug/net5.0/Builder.AssemblyInfo.cs
+/home/amin/Projects/Other/DesignPatterns_Example/Builder/obj/Debug/net5.0/Builder.csproj.CoreCompileInputs.cache
+/home/amin/Projects/Other/DesignPatterns_Example/Builder/obj/Debug/net5.0/Builder.dll
+/home/amin/Projects/Other/DesignPatterns_Example/Builder/obj/Debug/net5.0/ref/Builder.dll
+/home/amin/Projects/Other/DesignPatterns_Example/Builder/obj/Debug/net5.0/Builder.pdb
+/home/amin/Projects/Other/DesignPatterns_Example/Builder/obj/Debug/net5.0/Builder.genruntimeconfig.cache
