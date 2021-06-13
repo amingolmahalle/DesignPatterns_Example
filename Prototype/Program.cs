@@ -1,12 +1,38 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Prototype
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Animal animal = new Animal();
+
+            animal.AddAnimal("Cow");
+            animal.RemoveAnimal("Cat");
+
+            Animal cloneOfAnimal = (Animal) animal.GetClone();
+
+            List<string> cloneOfAnimalList = cloneOfAnimal.GetAnimals();
+
+            cloneOfAnimalList.Add("Bird");
+
+            cloneOfAnimalList.Remove("Bear");
+
+            Console.WriteLine("Animals:");
+            foreach (var item in animal.GetAnimals())
+            {
+                Console.WriteLine(item);
+            }
+
+            Console.WriteLine();
+
+            Console.WriteLine("Clone Of Animals:");
+            foreach (var item in cloneOfAnimalList)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
