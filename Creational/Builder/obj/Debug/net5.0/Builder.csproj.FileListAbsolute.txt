@@ -29,3 +29,4 @@
 /home/amin/Projects/Other/DesignPatterns_Example/Creational/Builder/obj/Debug/net5.0/ref/Builder.dll
 /home/amin/Projects/Other/DesignPatterns_Example/Creational/Builder/obj/Debug/net5.0/Builder.pdb
 /home/amin/Projects/Other/DesignPatterns_Example/Creational/Builder/obj/Debug/net5.0/Builder.genruntimeconfig.cache
+/home/amin/Projects/Other/DesignPatterns_Example/Creational/Builder/obj/Debug/net5.0/Builder.csproj.AssemblyReference.cache
