@@ -5,7 +5,7 @@ namespace Prototype
 {
     internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Animal animal = new Animal();
 

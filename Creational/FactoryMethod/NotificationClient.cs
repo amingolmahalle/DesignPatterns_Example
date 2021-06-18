@@ -1,8 +1,8 @@
-using FactoryMethod.Services;
+using FactoryMethod.ConcreteProducts;
 
 namespace FactoryMethod
 {
-    public class ConcreteNotificationFactory : NotificationFactory
+    public class NotificationClient : NotificationFactory
     {
         public override INotification GeNotification(NotificationType notificationType)
         {

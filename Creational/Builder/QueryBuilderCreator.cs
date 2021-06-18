@@ -1,6 +1,6 @@
 namespace Builder
 {
-    public sealed class ConcreteQueryBuilder
+    public sealed class QueryBuilderCreator
     {
         public IQueryBuilder Construct(IQueryBuilder queryBuilderBuilder)
         {

@@ -4,9 +4,9 @@ namespace FactoryMethod
 {
     internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            NotificationFactory notification = new ConcreteNotificationFactory();
+            NotificationFactory notification = new NotificationClient();
 
             INotification smsNotification = notification.GeNotification(NotificationType.Sms);
 

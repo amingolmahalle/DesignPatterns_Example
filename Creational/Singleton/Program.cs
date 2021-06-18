@@ -4,7 +4,7 @@ namespace Singleton
 {
     internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("First Call:");
             DatabaseConnection dbConn1 = DatabaseConnection.GetInstance();

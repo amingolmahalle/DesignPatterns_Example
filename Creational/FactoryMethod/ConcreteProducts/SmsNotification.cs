@@ -1,6 +1,6 @@
 using System;
 
-namespace FactoryMethod.Services
+namespace FactoryMethod.ConcreteProducts
 {
     public class SmsNotification : INotification
     {

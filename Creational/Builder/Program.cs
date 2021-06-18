@@ -1,12 +1,13 @@
 ﻿using System;
+using Builder.ConcreteBuilders;
 
 namespace Builder
 {
     internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            ConcreteQueryBuilder concreteQueryBuilder = new ConcreteQueryBuilder();
+            QueryBuilderCreator concreteQueryBuilder = new QueryBuilderCreator();
 
             Console.WriteLine("SqlServer Query Builder:");
 
