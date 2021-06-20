@@ -1,12 +1,14 @@
-﻿using System;
-
+﻿
 namespace Proxy
 {
-    class Program
+   internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            IMoney onlinePayment = new OnlinePayment();
+            
+            onlinePayment.Pay(5000);
+            onlinePayment.Pay(1000000);
         }
     }
 }
