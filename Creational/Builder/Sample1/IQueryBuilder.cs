@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Builder
+namespace Builder.Sample1
 {
     public interface IQueryBuilder
     {

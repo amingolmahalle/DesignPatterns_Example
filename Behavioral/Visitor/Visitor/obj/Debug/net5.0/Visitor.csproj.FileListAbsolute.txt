@@ -5,7 +5,6 @@
 /home/amin/Projects/Other/DesignPatterns_Example/Behavioral/Visitor/Visitor/bin/Debug/net5.0/Visitor.dll
 /home/amin/Projects/Other/DesignPatterns_Example/Behavioral/Visitor/Visitor/bin/Debug/net5.0/ref/Visitor.dll
 /home/amin/Projects/Other/DesignPatterns_Example/Behavioral/Visitor/Visitor/bin/Debug/net5.0/Visitor.pdb
-/home/amin/Projects/Other/DesignPatterns_Example/Behavioral/Visitor/Visitor/obj/Debug/net5.0/Visitor.csproj.AssemblyReference.cache
 /home/amin/Projects/Other/DesignPatterns_Example/Behavioral/Visitor/Visitor/obj/Debug/net5.0/Visitor.GeneratedMSBuildEditorConfig.editorconfig
 /home/amin/Projects/Other/DesignPatterns_Example/Behavioral/Visitor/Visitor/obj/Debug/net5.0/Visitor.AssemblyInfoInputs.cache
 /home/amin/Projects/Other/DesignPatterns_Example/Behavioral/Visitor/Visitor/obj/Debug/net5.0/Visitor.AssemblyInfo.cs

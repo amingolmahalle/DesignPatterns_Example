@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Builder.ConcreteBuilders
+namespace Builder.Sample1
 {
-    public class MySqlQueryBuilder : IQueryBuilder
+    public class SqlServerQueryBuilder : IQueryBuilder
     {
         private string _tableName;
 
@@ -58,6 +58,11 @@ namespace Builder.ConcreteBuilders
 
             query.Append("SELECT").Append(' ');
 
+            if (_limit > 0)
+            {
+                query.Append($"TOP {_limit}").Append(' ');
+            }
+
             if (!string.IsNullOrEmpty(_columns))
             {
                 query.Append(_columns).Append(' ');
@@ -67,12 +72,7 @@ namespace Builder.ConcreteBuilders
 
             if (!string.IsNullOrEmpty(_key) && !string.IsNullOrEmpty(_value))
             {
-                query.Append($"WHERE {_key} = {_value}").Append(' ');
-            }
-
-            if (_limit > 0)
-            {
-                query.Append($"LIMIT {_limit}");
+                query.Append($"WHERE {_key} = {_value}");
             }
 
             Console.WriteLine(query.ToString());
