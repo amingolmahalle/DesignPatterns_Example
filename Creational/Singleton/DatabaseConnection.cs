@@ -2,7 +2,7 @@ using System;
 
 namespace Singleton
 {
-    public class DatabaseConnection
+    public sealed class DatabaseConnection
     {
         private static DatabaseConnection _instance;
 
